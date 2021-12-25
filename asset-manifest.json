@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ibmypdt/static/css/main.073c9b0a.css",
-    "main.js": "/ibmypdt/static/js/main.b74d4f29.js",
+    "main.css": "/ibmypdt/static/css/main.502d0a39.css",
+    "main.js": "/ibmypdt/static/js/main.32ff3588.js",
     "static/js/787.37a186aa.chunk.js": "/ibmypdt/static/js/787.37a186aa.chunk.js",
     "static/media/logo.svg": "/ibmypdt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ibmypdt/index.html",
-    "main.073c9b0a.css.map": "/ibmypdt/static/css/main.073c9b0a.css.map",
-    "main.b74d4f29.js.map": "/ibmypdt/static/js/main.b74d4f29.js.map",
+    "main.502d0a39.css.map": "/ibmypdt/static/css/main.502d0a39.css.map",
+    "main.32ff3588.js.map": "/ibmypdt/static/js/main.32ff3588.js.map",
     "787.37a186aa.chunk.js.map": "/ibmypdt/static/js/787.37a186aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b74d4f29.js"
+    "static/css/main.502d0a39.css",
+    "static/js/main.32ff3588.js"
   ]
 }
