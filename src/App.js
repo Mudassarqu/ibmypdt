@@ -1,4 +1,13 @@
-import logo from './logo.svg';
+
+import React from "react";
+
+function App() {
+
+  return <h1>My name is Mudassar</h1>
+};
+export default App;
+
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -11,3 +20,4 @@ function App() {
 }
 
 export default App;
+*/
